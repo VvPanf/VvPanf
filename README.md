@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,aws,dart,flutter)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VvPanf&layout=compact&theme=vision-friendly-dark)](https://github.com/VvPanf/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=VvPanf&layout=compact&theme=vision-friendly-dark)](https://github.com/VvPanf/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VvPanf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
