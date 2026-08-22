@@ -1,7 +1,7 @@
 # Welcome Everyone 👋
 
 ## 💻 My Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,gradle,cs,js,vue,nodejs,express,mongodb,redis,kafka,py,flask,bots,selenium,sqlite,postgres,mysql,html,css,md,idea,visualstudio,vscode,git,github,heroku,docker,prometheus,grafana,nginx,linux,redhat,bash,raspberrypi,kotlin,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,gradle,cs,go,js,vue,nodejs,express,mongodb,redis,kafka,py,flask,bots,selenium,sqlite,postgres,mysql,html,css,md,idea,visualstudio,vscode,git,github,heroku,docker,prometheus,grafana,nginx,linux,redhat,bash,raspberrypi,kotlin,androidstudio)](https://skillicons.dev)
 
 ## 🎓 Skills I would like to learn
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,react,aws,dart,flutter)](https://skillicons.dev)
